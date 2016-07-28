@@ -1,0 +1,27 @@
+From 228f8dfaee272ffefd17b46f161fa823168663ca Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?=EC=A4=80=ED=98=B8=EB=A7=A5?= <ttiis@naver.com>
+Date: Thu, 28 Jul 2016 19:30:13 +0900
+Subject: [PATCH] =?UTF-8?q?=EB=8D=94=20=EC=9E=91=EC=9D=80?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ src/main/webapp/WEB-INF/views/index.jsp | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/src/main/webapp/WEB-INF/views/index.jsp b/src/main/webapp/WEB-INF/views/index.jsp
+index 1975e8d..0d3a8e0 100644
+--- a/src/main/webapp/WEB-INF/views/index.jsp
++++ b/src/main/webapp/WEB-INF/views/index.jsp
+@@ -10,5 +10,6 @@
+ <h1>Hello</h1>
+ <h1>준호222</h1>
+ <h2>작은글씨</h2>
++<h3>더 작은 글씨</h3>
+ </body>
+ </html>
+\ No newline at end of file
+-- 
+2.7.0.windows.1
+
