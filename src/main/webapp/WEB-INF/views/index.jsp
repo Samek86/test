@@ -9,5 +9,6 @@
 <body>
 <h1>Hello</h1>
 <h1>준호222</h1>
+<h2>작은글씨</h2>
 </body>
 </html>
